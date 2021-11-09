@@ -1,6 +1,6 @@
 GitLab:
 
- 1. Developed by: GitLab was developed by Dmitriy Zaporozhets and Valery Sizov.
+ 1. Developed By: GitLab was developed by Dmitriy Zaporozhets and Valery Sizov.
  2. Open source: GitLab is open-source for community edition.
  3. Public Repository: It allows users to make public repositories.
  4. Private Repository: GitLab also provides a free private repository.
