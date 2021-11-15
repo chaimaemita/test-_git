@@ -37,3 +37,16 @@ git push (pour envoyer les modifications au serveur git)
 git status (pour afficher le statut des fichier)
 
 git remote -v (vérifier si le fichier est une repo)
+
+    les questions du workshope:
+12- on a créer un fichier (README.md) dans le dossier git_test par une commande ( touch "README.md" ), puis on a entré (git status) pour voir les changements et le status du fichier,
+apres pour ajouter ce fichier dans le staging area on a utulisé ( git add "README.md ), et on a affiché le status du fichier si il etait  ajouté ou non,
+ensuite pour enregistrer les modifications on a utulisé la commande (git commit -m "un message" ),en fin le fichier a été changé et modifier sans probleme.
+
+13- (git log)  permet d'afficher l'état de projet.
+
+19- la différence entre (git add .) et (git add "README.md"); c'est que la premiere commande signifie qu'il va ajouter tous les dossier qui sont créer ou modifier, 
+et pour la 2eme commande permet d'ajouter seulement le fichier qui était indiqué dand la commande.
+ 
+ 
+
